@@ -6,7 +6,7 @@ Analyzed Netflix dataset (8,800+ titles) to derive insights into content strateg
 ## 🛠 Tools & Libraries
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
-- VS code
+- Jupiter Notebook
 
 ## 📊 Key Analysis
 - Movies vs TV Shows distribution
